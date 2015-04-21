@@ -153,7 +153,8 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-default .navbar-brand {
   color: #fed136;
-  font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+font-family: 'Leckerli One', cursive;
+
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
@@ -207,7 +208,7 @@ fieldset[disabled] .btn-xl.active {
     border: none;
   }
   .navbar-default .navbar-brand {
-    font-size: 2em;
+    font-size: 3em;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
